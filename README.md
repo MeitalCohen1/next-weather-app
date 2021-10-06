@@ -1,6 +1,6 @@
 # DevSpace Blog
 
-> Static Next.js blog that uses Markdown for posts. Includes pagination, categories and search.
+> Weather App built with Next.js and React.
 
 > This project is part of Next.js course.
 
