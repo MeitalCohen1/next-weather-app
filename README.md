@@ -1,4 +1,4 @@
-# DevSpace Blog
+# Weather App
 
 > Weather App built with Next.js and React.
 
